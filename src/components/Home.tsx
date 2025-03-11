@@ -16,7 +16,7 @@ const Home: React.FC<HomeProps> = ({ setActiveSection }) => {
             Hi, I'm Sudheer Tanukonda
           </h1>
           <h2 className="text-2xl md:text-3xl text-gray-400">
-            Power BI 
+            Power BI Developer
           </h2>
         </div>
         <p className="text-lg text-gray-300 leading-relaxed max-w-2xl">
